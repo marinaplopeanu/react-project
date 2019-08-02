@@ -1,0 +1,17 @@
+body {
+  background-color: rgba(0, 151, 19, 0.02);
+  border: 1px solid gray;
+  padding: 30px;
+  
+}
+span{
+  font-style: italic;
+}
+
+h3{
+color: #003636;
+}
+
+p, ul {
+font-size: 18px;;
+}

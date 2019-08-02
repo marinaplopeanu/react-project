@@ -1,0 +1,13 @@
+<script
+  src="https://unpkg.com/react@16/umd/react.development.js">
+</script>
+<script
+  src="https://unpkg.com/react-dom@16/umd/react-dom.development.js">
+</script>
+
+  // Our code will go here
+  const appRoot = document.querySelector('#application-root');
+
+  ReactDOM.render('Hello, world!', appRoot);
+
+
